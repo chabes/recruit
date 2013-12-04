@@ -100,6 +100,7 @@
 * 시스템 모니터링
 	* Sentry
 	* Newrelic
+	* StatsD + Graphite
 	* 외 다수의 모니터링 툴이 있습니다.
 
 ### 개발팀 문화에 대해 말씀드립니다.
